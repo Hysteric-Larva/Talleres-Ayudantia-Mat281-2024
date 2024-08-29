@@ -74,3 +74,4 @@ $$
 > **¡Importante!**: Todos los entregables se
 > deben subir al repositorio personal del estudiante
 > (en GitHub). Las notas se trataran de actualizar al final de cada mes.
+> ** Aviso **: Los talleres de ayudantía son una nueva versión de las realizadas el [2022](https://github.com/Hysteric-Larva/Ayudantia-aplica-2022-2)
