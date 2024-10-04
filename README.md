@@ -1,5 +1,8 @@
 # MAT281 - Aplicaciones de la matemática para la ingeniería
-Repositorio que incluye los talleres que realice el segundo semestre del 2024
+Repositorio que incluye los talleres que realice el segundo semestre del 2024. Algunas observaciones:
+
+* El taller 4, fue de carácter teorico y se basa en la lectura 2 de [Link](https://www.overleaf.com/read/gcptstcjhsnv#e24426), el cual es un intento de apunte que estoy haciendo para quitarme las dudas.
+* El Taller 5 fue de power bi y el excel utilizado esta adjunto como DATAPBI
 
 
 ## Descripción de la Asignatura
