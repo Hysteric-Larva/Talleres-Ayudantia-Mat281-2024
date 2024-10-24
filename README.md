@@ -3,6 +3,8 @@ Repositorio que incluye los talleres que realice el segundo semestre del 2024. A
 
 * El taller 4, fue de carácter teorico y se basa en la lectura 2 de [Link](https://www.overleaf.com/read/gcptstcjhsnv#e24426), el cual es un intento de apunte que estoy haciendo para quitarme las dudas.
 * El Taller 5 fue de power bi y el excel utilizado esta adjunto como DATAPBI
+* Hice un Taller 6, con los conocimientos que ya contaba de blochain del curso impartido por [Emurgo](https://pool.pm/asset1ectj2acvrfqkj4jky03vrl98tl0fu4n89rjyg7).
+* El taller 7 fue de miniería de datos, donde revistamos procesamiento de NLP, Aspectos de minería de datos, kmeans, hyerarchical tree, sistemas de recomentación. Todo sacado de Kaggle.
 
 
 ## Descripción de la Asignatura
